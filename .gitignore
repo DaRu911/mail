@@ -1,0 +1,4 @@
+# ignore everything in the root except the "wp-content" directory.
+/vendor/
+/composer.lock
+/composer.json
